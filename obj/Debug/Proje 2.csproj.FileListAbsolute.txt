@@ -1,0 +1,12 @@
+C:\Users\kaank\Desktop\Proje 2\Proje 2\bin\Debug\Proje 2.exe.config
+C:\Users\kaank\Desktop\Proje 2\Proje 2\bin\Debug\Proje 2.exe
+C:\Users\kaank\Desktop\Proje 2\Proje 2\bin\Debug\Proje 2.pdb
+C:\Users\kaank\Desktop\Proje 2\Proje 2\obj\Debug\Proje 2.csprojAssemblyReference.cache
+C:\Users\kaank\Desktop\Proje 2\Proje 2\obj\Debug\Proje_2.Form1.resources
+C:\Users\kaank\Desktop\Proje 2\Proje 2\obj\Debug\Proje_2.Form2.resources
+C:\Users\kaank\Desktop\Proje 2\Proje 2\obj\Debug\Proje_2.Properties.Resources.resources
+C:\Users\kaank\Desktop\Proje 2\Proje 2\obj\Debug\Proje 2.csproj.GenerateResource.cache
+C:\Users\kaank\Desktop\Proje 2\Proje 2\obj\Debug\Proje 2.csproj.CoreCompileInputs.cache
+C:\Users\kaank\Desktop\Proje 2\Proje 2\obj\Debug\Proje 2.exe
+C:\Users\kaank\Desktop\Proje 2\Proje 2\obj\Debug\Proje 2.pdb
+C:\Users\kaank\Desktop\Proje 2\Proje 2\obj\Debug\Proje_2.gösterilenform.resources
